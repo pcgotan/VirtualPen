@@ -1,5 +1,7 @@
 # VirtualPen
 
+## Background
+
 Drawing on the screen by waving a virtual pen in the air without any special hardware using computer vision.
 
 Color masking is used to get a binary mark of target colored Object ( as a pen) then used contour detection to detect and track the location of that pen all over the screen.
